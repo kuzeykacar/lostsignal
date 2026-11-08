@@ -8,7 +8,7 @@ LostSignal lets a student write their confusion anonymously, in their own messy 
 ## How to run
 ```bash
 pip3 install -r requirements.txt          # openai, streamlit, python-dotenv
-echo 'OPENAI_API_KEY=sk-...' > .env       # your key (never commit it)
+cp .env.example .env                     # then put your OpenAI key in .env (never commit it)
 python3 -m streamlit run app.py           # or double-click start.command (macOS)
 ```
 Open http://localhost:8501. Use the sidebar to switch between **Student** and **Professor**.

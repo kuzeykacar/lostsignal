@@ -1,0 +1,7 @@
+.env
+data/log.jsonl
+data/students/
+data/materials/
+data/notes.md
+__pycache__/
+.DS_Store

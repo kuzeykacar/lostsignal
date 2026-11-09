@@ -97,10 +97,11 @@ No recording of the lecture (no copyright or consent issues) · fully anonymous 
 ## Who benefits / who might be left out
 Shy students, international students, anyone who loses the thread. Left out: students without a device. Mitigation: works on any phone or laptop browser, and the professor can still take questions out loud.
 
-## Success measures
-Questions per lecture (vs. hands raised before) · % of clarified questions confirmed by students ("yes, that's it") · % of questions answered by the professor · % of answered questions marked "I understood" (vs. follow-ups) · topics flagged in the weekly report that improve in later weeks.
+## Team
 
-## Level 3 status (honest)
-- **Knowledge graph (Path B):** partial. The private profile infers prerequisite links (root gap, review order) with the LLM, but there is no explicit graph store yet. Next step: extract concept → prerequisite triples from the professor's PDFs.
-- **Multi-agent (Path A):** not implemented; we chose one controlled orchestrator for predictability in class.
-- **Launch campaign (Path C):** see the team's campaign slide.
+| Name | GitHub |
+|------|--------|
+| Kuzey Can Kacar | [@kuzeykacar](https://github.com/kuzeykacar) |
+| Irem Sengor | [@iurisiur](https://github.com/iurisiur) |
+| Ege Arca Akcay | [@arcakcy](https://github.com/arcakcy) |
+| Kerem Alp Yildiz | [@keremalpyildiz](https://github.com/keremalpyildiz) |

@@ -1,5 +1,5 @@
 # LostSignal
-**Student Tech Clash 2026 · AI on Campus · Team Polito Zero Signal**
+**Student Tech Clash 2026 · AI on Campus · Team LostSignal**
 
 > "Students don't stay silent because they understood. They stay silent because they're embarrassed, can't put it into words, or don't even know *what* they didn't understand."
 

@@ -1,6 +1,8 @@
 # LostSignal
 **Student Tech Clash 2026 · AI on Campus · Team LostSignal**
 
+AI agent that turns students’ anonymous, messy lecture confusion into one clear question for the professor. Built at Student Tech Clash 2026.
+
 > "Students don't stay silent because they understood. They stay silent because they're embarrassed, can't put it into words, or don't even know *what* they didn't understand."
 
 LostSignal lets a student write their confusion anonymously, in their own messy words, during a lecture. An AI agent finds out what they really didn't understand, turns it into one clear question, asks the student to confirm it, and sends it anonymously to the professor, who answers whenever they choose.
